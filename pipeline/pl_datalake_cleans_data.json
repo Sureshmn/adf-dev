@@ -108,7 +108,13 @@
 										"inputs": [
 											{
 												"referenceName": "ds_datalake",
-												"type": "DatasetReference"
+												"type": "DatasetReference",
+												"parameters": {
+													"file_name": {
+														"value": "@item().name",
+														"type": "Expression"
+													}
+												}
 											}
 										],
 										"outputs": [
