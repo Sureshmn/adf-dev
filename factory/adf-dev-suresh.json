@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-suresh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1183022c-6063-4f92-9e28-967b260cb6c4",
+		"tenantId": "456c86ab-cfda-494a-a12e-4291ec0a3ad5"
+	}
+}
